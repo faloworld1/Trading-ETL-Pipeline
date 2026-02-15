@@ -1,0 +1,13 @@
+# Ignorer les données
+data/
+*.csv
+*.db
+trading.db
+
+# Ignorer l'environnement virtuel et les caches Python
+venv/
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers de config système
+.DS_Store
